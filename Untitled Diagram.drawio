@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-31T20:55:22.818Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="FAAS5PcUyVNMYeQtgbOe" version="15.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-31T20:55:54.320Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="q2KKqLPIoZQh9lbwLNZY" version="15.0.3" type="github">
   <diagram name="Page-1" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
     <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="Tccu-ew2ln0pexr-4rRw-2" value="FIGMA&lt;br&gt;&lt;br&gt;Single Source of Truth&lt;br&gt;Design&lt;br&gt;Fondations&lt;br&gt;Composants&lt;br&gt;Accessibilité" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="80" y="480" width="160" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="Tccu-ew2ln0pexr-4rRw-3" value="STORYBOOK&lt;br&gt;&lt;br&gt;Design&lt;br&gt;Intégration&lt;br&gt;Documentation" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="Tccu-ew2ln0pexr-4rRw-3" value="STORYBOOK&lt;br&gt;&lt;br&gt;Intégration&lt;br&gt;Documentation" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="640" y="440" width="160" height="160" as="geometry" />
         </mxCell>
         <mxCell id="Tccu-ew2ln0pexr-4rRw-5" value="PIPELINE AZURE&lt;br&gt;DEVOPS" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
