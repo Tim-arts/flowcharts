@@ -1,92 +1,92 @@
-<mxfile host="app.diagrams.net" modified="2021-09-01T14:57:04.555Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="8ae0gapdg4AS6SfrksDI" version="15.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-01T14:59:21.931Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="FZOF2skwK8VOaB8j22vq" version="15.0.4" type="github">
   <diagram name="Page-1" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
     <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Tccu-ew2ln0pexr-4rRw-2" value="FIGMA&lt;br&gt;&lt;br&gt;Single Source of Truth&lt;br&gt;Design&lt;br&gt;Fondations&lt;br&gt;Composants&lt;br&gt;Accessibilité" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="40" y="440" width="160" height="130" as="geometry" />
+          <mxGeometry x="40" y="400" width="160" height="130" as="geometry" />
         </mxCell>
         <mxCell id="Tccu-ew2ln0pexr-4rRw-3" value="STORYBOOK&lt;br&gt;&lt;br&gt;Intégration&lt;br&gt;Documentation" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="640" y="400" width="160" height="160" as="geometry" />
+          <mxGeometry x="640" y="360" width="160" height="160" as="geometry" />
         </mxCell>
         <mxCell id="Tccu-ew2ln0pexr-4rRw-5" value="PIPELINE AZURE&lt;br&gt;DEVOPS" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="640" y="280" width="160" height="80" as="geometry" />
+          <mxGeometry x="640" y="240" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Tccu-ew2ln0pexr-4rRw-8" value="" style="endArrow=classic;html=1;jumpStyle=line;shadow=0;rounded=1;jumpSize=6;endSize=6;fixDash=1;ignoreEdge=0;orthogonalLoop=0;orthogonal=0;comic=0;backgroundOutline=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Tccu-ew2ln0pexr-4rRw-2" target="Tccu-ew2ln0pexr-4rRw-48" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="250" y="510" as="sourcePoint" />
-            <mxPoint x="290" y="410" as="targetPoint" />
+            <mxPoint x="250" y="470" as="sourcePoint" />
+            <mxPoint x="290" y="370" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="240" y="505" />
-              <mxPoint x="280" y="520" />
+              <mxPoint x="240" y="465" />
+              <mxPoint x="280" y="480" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Tccu-ew2ln0pexr-4rRw-11" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Tccu-ew2ln0pexr-4rRw-5" target="Tccu-ew2ln0pexr-4rRw-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="600" y="550" as="sourcePoint" />
-            <mxPoint x="650" y="500" as="targetPoint" />
+            <mxPoint x="600" y="510" as="sourcePoint" />
+            <mxPoint x="650" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Tccu-ew2ln0pexr-4rRw-13" value="PORTAIL TA" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="520" y="160" width="160" height="80" as="geometry" />
+          <mxGeometry x="520" y="120" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Tccu-ew2ln0pexr-4rRw-14" value="SITE WEB EXO" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="320" y="160" width="160" height="80" as="geometry" />
+          <mxGeometry x="320" y="120" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Tccu-ew2ln0pexr-4rRw-18" value="NPM UI KIT" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="320" y="360" width="160" height="80" as="geometry" />
+          <mxGeometry x="320" y="320" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Tccu-ew2ln0pexr-4rRw-31" value="&lt;h1&gt;Processus d&#39;automatisation concernant la mise en place du UI Kit&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="40" width="800" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Tccu-ew2ln0pexr-4rRw-48" value="PLUGIN FIGMA&lt;br&gt;&lt;br&gt;Automatisation" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="480" width="160" height="80" as="geometry" />
+          <mxGeometry x="320" y="440" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Tccu-ew2ln0pexr-4rRw-49" value="" style="endArrow=classic;html=1;shadow=0;endSize=6;strokeColor=#000000;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Tccu-ew2ln0pexr-4rRw-48" target="Tccu-ew2ln0pexr-4rRw-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="490" y="535" as="sourcePoint" />
-            <mxPoint x="540" y="485" as="targetPoint" />
+            <mxPoint x="490" y="495" as="sourcePoint" />
+            <mxPoint x="540" y="445" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Tccu-ew2ln0pexr-4rRw-52" value="" style="endArrow=classic;html=1;shadow=0;endSize=6;strokeColor=#000000;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="Tccu-ew2ln0pexr-4rRw-18" target="Tccu-ew2ln0pexr-4rRw-14" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="540" y="260" as="sourcePoint" />
-            <mxPoint x="590" y="210" as="targetPoint" />
+            <mxPoint x="540" y="220" as="sourcePoint" />
+            <mxPoint x="590" y="170" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Tccu-ew2ln0pexr-4rRw-53" value="" style="endArrow=classic;html=1;shadow=0;endSize=6;strokeColor=#000000;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" parent="1" source="Tccu-ew2ln0pexr-4rRw-18" target="Tccu-ew2ln0pexr-4rRw-13" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="270" y="290" as="sourcePoint" />
-            <mxPoint x="150" y="200" as="targetPoint" />
+            <mxPoint x="270" y="250" as="sourcePoint" />
+            <mxPoint x="150" y="160" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="440" y="280" />
-              <mxPoint x="600" y="280" />
+              <mxPoint x="440" y="240" />
+              <mxPoint x="600" y="240" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Tccu-ew2ln0pexr-4rRw-55" value="" style="endArrow=classic;startArrow=classic;html=1;shadow=0;endSize=6;strokeColor=#000000;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" target="Tccu-ew2ln0pexr-4rRw-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="481" y="400" as="sourcePoint" />
-            <mxPoint x="590" y="290" as="targetPoint" />
+            <mxPoint x="481" y="360" as="sourcePoint" />
+            <mxPoint x="590" y="250" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="560" y="360" />
               <mxPoint x="560" y="400" />
-              <mxPoint x="560" y="440" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="1OAiGLmBZDSz70NlBGUf-1" value="DIVERSES APPLICATIONS" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="120" y="160" width="160" height="80" as="geometry" />
+          <mxGeometry x="120" y="120" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1OAiGLmBZDSz70NlBGUf-2" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" parent="1" source="Tccu-ew2ln0pexr-4rRw-18" target="1OAiGLmBZDSz70NlBGUf-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="200" y="280" as="sourcePoint" />
-            <mxPoint x="530" y="330" as="targetPoint" />
+            <mxPoint x="200" y="240" as="sourcePoint" />
+            <mxPoint x="530" y="290" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="360" y="280" />
-              <mxPoint x="200" y="280" />
+              <mxPoint x="360" y="240" />
+              <mxPoint x="200" y="240" />
             </Array>
           </mxGeometry>
         </mxCell>
