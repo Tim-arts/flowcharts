@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-01T19:23:25.326Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="2BVkJeRJ2adxe8bQpzZy" version="15.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-01T19:24:28.915Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="O4ChDveTZAR4qx7YhpO7" version="15.0.4" type="github">
   <diagram name="Page-1" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
-    <mxGraphModel dx="981" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -38,8 +38,8 @@
         <mxCell id="Tccu-ew2ln0pexr-4rRw-18" value="NPM UI KIT" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="320" y="320" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Tccu-ew2ln0pexr-4rRw-31" value="&lt;h1&gt;Processus d&#39;automatisation concernant la mise en place du UI Kit&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="40" y="40" width="800" height="40" as="geometry" />
+        <mxCell id="Tccu-ew2ln0pexr-4rRw-31" value="&lt;h1&gt;Diagramme fonctionnel du UI Kit&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="40" y="40" width="400" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Tccu-ew2ln0pexr-4rRw-48" value="PLUGIN FIGMA&lt;br&gt;&lt;br&gt;Automatisation" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="440" width="160" height="80" as="geometry" />
